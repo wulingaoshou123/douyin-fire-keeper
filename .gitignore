@@ -1,0 +1,15 @@
+# 登录凭证与本地配置，绝不提交
+config.json
+cookies.json
+storage-state.json
+
+# 运行产物
+artifacts/
+.state/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
